@@ -2,7 +2,7 @@
 1. Greenplum is a big data technology based on MPP architecture and the Postgres open source database technology.
 
 
-# Parquet 
+# Parquet data types 
 ![image](https://user-images.githubusercontent.com/5849522/147789174-dd8f8022-01c8-4417-a1c9-828b22636f07.png)
 
 
